@@ -1,0 +1,5 @@
+sceneSetups:
+- path: Assets/Coda Mini Games/10 - Pull the Pin/Scenes/Pull the Pin Scene.unity
+  isLoaded: 1
+  isActive: 1
+  isSubScene: 0
