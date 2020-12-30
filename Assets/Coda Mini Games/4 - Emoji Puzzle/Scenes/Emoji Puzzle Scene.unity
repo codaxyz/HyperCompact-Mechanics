@@ -222,13 +222,13 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 5420892814244243170, guid: 682e70ba5163c46888a115e40e0715e9,
         type: 3}
-      propertyPath: m_Text
-      value: MATCH INSTRUMENTS
+      propertyPath: m_Color.a
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 5420892814244243170, guid: 682e70ba5163c46888a115e40e0715e9,
         type: 3}
-      propertyPath: m_Color.a
-      value: 1
+      propertyPath: m_Text
+      value: DRAW AND MATCH
       objectReference: {fileID: 0}
     - target: {fileID: 5912526281962882859, guid: 682e70ba5163c46888a115e40e0715e9,
         type: 3}
