@@ -8,12 +8,12 @@ ModelImporter:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: m_emojis
-    second: {fileID: 2100000, guid: 8032ce0ad4311479290963bc9ffbb271, type: 2}
+    second: {fileID: 2100000, guid: 71f79f01a4ed34917834c1f3b48aa5c9, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: m_paperholder
-    second: {fileID: 2100000, guid: 38fbdf9bdd47d4627a37fce4cff0ffc3, type: 2}
+    second: {fileID: 2100000, guid: 1afc2892f9fe4450a8abbd61a760f0e4, type: 2}
   materials:
     materialImportMode: 1
     materialName: 0

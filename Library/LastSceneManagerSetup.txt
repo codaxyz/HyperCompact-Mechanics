@@ -1,5 +1,5 @@
 sceneSetups:
-- path: Assets/Coda Mini Games/10 - Pull the Pin/Scenes/Pull the Pin Scene.unity
+- path: Assets/Coda Mini Games/1 - Object Sorting/Scenes/Object Sorting Scene.unity
   isLoaded: 1
   isActive: 1
   isSubScene: 0
