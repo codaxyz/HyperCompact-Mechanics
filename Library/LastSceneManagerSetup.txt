@@ -1,5 +1,5 @@
 sceneSetups:
-- path: Assets/Coda Mini Games/4 - Emoji Sorting/Scenes/Emoji Sorting Scene.unity
+- path: Assets/Coda Mini Games/3 - Shelf Sorting/Scenes/Shelf Sorting Scene.unity
   isLoaded: 1
   isActive: 1
   isSubScene: 0
