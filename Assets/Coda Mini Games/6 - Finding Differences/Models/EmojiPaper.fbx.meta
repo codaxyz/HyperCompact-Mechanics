@@ -3,17 +3,7 @@ guid: 796aa4a612c2240c1aff09205e970977
 ModelImporter:
   serializedVersion: 19301
   internalIDToNameTable: []
-  externalObjects:
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: m_emojis
-    second: {fileID: 2100000, guid: 8032ce0ad4311479290963bc9ffbb271, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: m_paperholder
-    second: {fileID: 2100000, guid: 38fbdf9bdd47d4627a37fce4cff0ffc3, type: 2}
+  externalObjects: {}
   materials:
     materialImportMode: 1
     materialName: 0

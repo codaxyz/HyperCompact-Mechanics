@@ -16,7 +16,7 @@ MonoBehaviour:
   m_FrameRatePlayback: 0
   m_FrameRateType: 4
   m_CustomFrameRateValue: 30
-  m_StartFrame: 1
+  m_StartFrame: 30
   m_EndFrame: 0
   m_StartTime: 0
   m_EndTime: 0
@@ -37,7 +37,7 @@ MonoBehaviour:
   m_Name: Image Sequence
   m_EditorClassIdentifier: 
   enabled: 1
-  take: 5
+  take: 12
   captureEveryNthFrame: 1
   fileNameGenerator:
     m_Path:
